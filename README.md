@@ -10,3 +10,5 @@ You need these to use reproduce:
 
 You can use ***pip*** to install these packages.
 I would suggest to create a virtualenv to not mess up your other python packages.
+
+You may also want to install [pandoc](https://pandoc.org/) for the full experience.
